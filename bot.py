@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 from flask import Flask
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "PASTE_YOUR_TOKEN_HERE"  # <--- PASTE TOKEN HERE
+BOT_TOKEN = "8419784067:AAGMTG8M9QIzOBD56B_ROHe6a_VIHO6UpCM"  # <--- PASTE TOKEN HERE
 
 # Render Free Tier has only 512MB RAM. 
 # We MUST limit workers to 1 and file size to prevent crashing.
