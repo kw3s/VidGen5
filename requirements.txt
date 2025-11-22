@@ -2,3 +2,4 @@ python-telegram-bot
 requests
 yt-dlp
 Flask
+beautifulsoup4
